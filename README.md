@@ -1,2 +1,2 @@
 # TicTacToe
-Game Tic-Tac-Toe menggunakan Tkinter
+Game Tic-Tac-Toe 
